@@ -2046,5 +2046,4 @@
     <!--Summarize Strings -->
     <!-- String for done button for summarize -->
     <string name="summarize_done_button">Done</string>
-    <string name="title_feature_summarize">Module Title</string>
 </resources>
